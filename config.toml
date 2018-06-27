@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "portal@weecology.org"
-  address = "31° 54' 49\" N / 109° 8' 29\" W"
+  address = ""
   office_hours = ""
   phone = ""
   skype = ""
@@ -227,7 +227,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/weecology" 
+    link = "//github.com/weecology/PortalData" 
 
 
 # Navigation Links
